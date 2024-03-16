@@ -1,3 +1,5 @@
+PRACTICA 8.
+
 Esta práctica consiste en la programación, siguiendo el patrón repositorio y MVVM, de una aplicación simple de gestión de módulos de FP. 
 
 La aplicación permitirá registrar módulos de FP en una base de datos. Cada registro de la tabla almacenará un id numérico automático, un nombre y la cantidad de créditos.
