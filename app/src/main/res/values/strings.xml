@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clear_dialog_title">Borrar lista</string>
+    <string name="clear_dialog_message">¿Desea borrar lista?</string>
+    <string name="clear_dialog_cancel">Cancelar</string>
+    <string name="clear_dialog_confirm">Aceptar</string>
+</resources>
